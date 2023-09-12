@@ -10,3 +10,40 @@ body{
 .highlight{
     color: #5669bd;
 }
+
+.fotoOfMe{
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+}
+
+.aboutMeText{
+    float: left;
+}
+
+.reset {
+    clear: both;
+}
+
+.hobbyList{
+    float: left;
+    margin-right: 50px;
+    clear: both;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.dnd{
+    float: left;
+    clear: right;
+}
+
+.meme{
+ 
+}
+
+.media{
+    float: left;
+    clear: both;
+}
