@@ -40,14 +40,13 @@ body{
 }
 
 .meme{
-margin-top: 2.2%;
+margin-top: 2%;
 }
 
 .media{
     float: left;
     clear: both;
-    margin-left: 2%;
-    margin-top: 1%;
+    margin: 1% auto auto 2%;
     width: 40%;
 }
 
@@ -62,3 +61,8 @@ margin-top: 2.2%;
 #media3{
     margin-right: 5%;
 }
+
+#pageContainer{
+    width: 1350px;
+    margin: 0px auto 0px auto;
+} 
