@@ -13,9 +13,9 @@ body{
 
 .fotoOfMe{
     float: left;
-    margin-right: 50px;
-    margin-bottom: 50px;
-    margin-left: 25px;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-left: 2%;
 }
 
 .aboutMeText{
@@ -28,22 +28,37 @@ body{
 
 .hobbyList{
     float: left;
-    margin-right: 50px;
+    margin-right: 2%;
     clear: both;
-    margin-top: 50px;
-    margin-left: 50px;
+    margin-top: 1%;
+    margin-left: 2%;
 }
 
 .dnd{
     float: left;
-    clear: right;
+    
 }
 
 .meme{
- 
+margin-top: 2.2%;
 }
 
 .media{
     float: left;
     clear: both;
+    margin-left: 2%;
+    margin-top: 1%;
+    width: 40%;
+}
+
+#media1{
+    margin-right: 5%;
+}
+
+#media2{
+    margin-right: 5%;
+}
+
+#media3{
+    margin-right: 5%;
 }
