@@ -3,6 +3,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*color in text*/
 #mainHeading{
     color: #e82ddf;
 }
@@ -11,21 +12,25 @@ body{
     color: #5669bd;
 }
 
+/*bout me*/
 .fotoOfMe{
     float: left;
     margin-right: 2%;
     margin-bottom: 1%;
     margin-left: 2%;
+    border-radius: 30px;
 }
 
 .aboutMeText{
     float: left;
 }
 
+/*in hobbies and end of container */
 .reset {
     clear: both;
 }
 
+/*hobby*/
 .hobbyList{
     float: left;
     margin-right: 2%;
@@ -38,9 +43,10 @@ body{
     float: left;
     
 }
-
+/*meme + media*/
 .meme{
-margin-top: 2%;
+margin: 2% 0% 0% 0%;
+padding: 8px 0% 0% 0%; /*doesn't push de rest down*/
 }
 
 .media{
@@ -50,18 +56,21 @@ margin-top: 2%;
     width: 40%;
 }
 
-#media1{
+.media1{
     margin-right: 5%;
+    border-radius: 20px;
 }
 
-#media2{
+.media2{
     margin-right: 5%;
+    border-radius: 20px;
 }
 
-#media3{
+.media3{
     margin-right: 5%;
+    border-radius: 5px;
 }
-
+/* everything */
 #pageContainer{
     width: 1350px;
     margin: 0px auto 0px auto;
