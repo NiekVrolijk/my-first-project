@@ -12,6 +12,10 @@ body{
     color: #5669bd;
 }
 
+#bold{
+    text-decoration: underline;
+}
+
 /*bout me*/
 .fotoOfMe{
     float: left;
